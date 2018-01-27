@@ -12,5 +12,16 @@
     "actions-on-google": "^1.0.8",
     "body-parser": "^1.17.1",
     "express": "^4.15.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charubansal12/bots.git"
+  },
+  "keywords": [
+    "movie-suggester"
+  ],
+  "bugs": {
+    "url": "https://github.com/charubansal12/bots/issues"
+  },
+  "homepage": "https://github.com/charubansal12/bots#readme"
 }
