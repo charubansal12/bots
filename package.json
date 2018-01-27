@@ -1,0 +1,16 @@
+{
+  "name": "google-voice-bot",
+  "version": "1.0.0",
+  "description": "a bot talking about movies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "charubansal12",
+  "license": "ISC",
+  "dependencies": {
+    "actions-on-google": "^1.0.8",
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2"
+  }
+}
